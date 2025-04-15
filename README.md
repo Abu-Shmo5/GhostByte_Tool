@@ -12,3 +12,6 @@ Copy lib/gbe.py to desired folder. Then use import to use the class.
 
 # Discord Link
 https://discord.gg/byt
+
+# Demo
+![Demo](/static/images/demo.png)
