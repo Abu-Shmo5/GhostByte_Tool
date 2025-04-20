@@ -1,4 +1,4 @@
-# GhostByte Uploader
+# GhostByte Tool
 An unoffical api uploader for gbe.lol
 
 # Setup
